@@ -1,0 +1,4 @@
+rootProject.name = 'neo4j-insert-testing'
+
+include 'custom-insert-procedure'
+include 'testing'
